@@ -21,12 +21,6 @@
     $score9 = 30;
     $score10 = 60;
 
-    // // 合計を出力する
-    // echo $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10;
-
-    // 改行する
-    // echo '<br>';
-  
     // 平均を出力する
     echo ($score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10) / 10;
 
